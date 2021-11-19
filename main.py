@@ -1,4 +1,3 @@
-# python real_time.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 
 # import packages
 from imutils.video import VideoStream
